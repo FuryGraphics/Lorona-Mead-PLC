@@ -1,7 +1,6 @@
 import { type ReactNode, useEffect } from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import FloatingCallButton from "./FloatingCallButton";
 
 export default function Layout({ children }: { children: ReactNode }) {
   useEffect(() => {
@@ -29,7 +28,6 @@ export default function Layout({ children }: { children: ReactNode }) {
       <Navbar />
       <main>{children}</main>
       <Footer />
-      <FloatingCallButton />
     </div>
   );
 }
