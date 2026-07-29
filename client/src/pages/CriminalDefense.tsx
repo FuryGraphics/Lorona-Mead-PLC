@@ -15,7 +15,7 @@ export default function CriminalDefense() {
     <>
     <SEO
       title="Criminal Defense Attorney in Phoenix | Lorona Mead, PLC"
-      description="Comprehensive criminal defense in Phoenix, AZ. Every type of criminal case, from DUI to federal charges. Former prosecutor, 30+ years experience. Free consultation."
+      description="Comprehensive criminal defense in Phoenix, AZ. Every type of criminal case, from DUI to federal charges. Former prosecutor, 43+ years experience. Free consultation."
       canonical="https://arizonatrialattorneys.com/criminal-defense"
     />
       <section className="relative pt-40 pb-20 overflow-hidden">
@@ -49,7 +49,7 @@ export default function CriminalDefense() {
                 When you are facing criminal charges in Arizona, the stakes could not be higher. Your freedom, your reputation, your career, and your family's future are all on the line. The criminal justice system is complex and unforgiving, and prosecutors have significant resources at their disposal. You need an attorney who has been on both sides of the courtroom, who knows how cases are built, and who knows how to break them down.
               </p>
               <p className="text-white/70 leading-relaxed mt-4">
-                Jess A. Lorona is a former prosecutor with over 30 years of criminal defense experience. He has handled thousands of cases across Arizona, from first-offense DUI to complex federal drug trafficking trials. At Lorona Mead, PLC, we provide aggressive, strategic defense for every type of criminal charge. We examine every piece of evidence, challenge every procedural error, and fight for the best possible outcome at every stage of your case.
+                Jess A. Lorona is a former prosecutor with over 43 years of criminal defense experience. He has handled thousands of cases across Arizona, from first-offense DUI to complex federal drug trafficking trials. At Lorona Mead, PLC, we provide aggressive, strategic defense for every type of criminal charge. We examine every piece of evidence, challenge every procedural error, and fight for the best possible outcome at every stage of your case.
               </p>
             </div>
           </FadeIn>

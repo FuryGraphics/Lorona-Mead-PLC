@@ -183,10 +183,10 @@ export default function Home() {
                 />
                 <div className="absolute bottom-8 left-8 right-8 bg-[#0a0a0a]/90 backdrop-blur-md border border-[#C9A84C]/20 rounded-lg p-6">
                   <div className="font-serif text-5xl md:text-6xl font-bold text-[#C9A84C]">
-                    30+
-                  </div>
-                  <div className="text-sm text-white/60 mt-1">
-                    Years Defending Arizonans
+                    43+
+                   </div>
+                   <div className="text-sm text-white/60 mt-1">
+                     Years Defending Arizonans
                   </div>
                 </div>
               </div>
@@ -199,7 +199,7 @@ export default function Home() {
                 </GoldUnderlineHeading>
                 <div className="space-y-4 text-white/60 leading-relaxed">
                   <p>
-                    Jess A. Lorona has been practicing criminal defense in Arizona for over three decades. As a former prosecutor, he understands how the state builds cases and how to dismantle them.
+                    Jess A. Lorona has been practicing criminal defense in Arizona for over four decades. As a former prosecutor, he understands how the state builds cases and how to dismantle them.
                   </p>
                   <p>
                     Lorona Mead, PLC was founded on a simple principle: every person accused of a crime deserves an aggressive, experienced defense. From first-offense misdemeanors to complex federal trials, we have handled thousands of cases and earned a reputation for relentless advocacy.

@@ -42,7 +42,7 @@ export default function PracticeAreas() {
         <div className="container max-w-4xl">
           <FadeIn>
             <p className="text-white/70 leading-relaxed text-lg">
-              At Lorona Mead, PLC, we handle every form of criminal case. From first-offense misdemeanors to complex federal trials, Jess A. Lorona brings over 30 years of courtroom experience and a former prosecutor's insight to every defense. Below is a complete list of our practice areas. Click any area to learn more about the charges we defend, the process, and common questions.
+              At Lorona Mead, PLC, we handle every form of criminal case. From first-offense misdemeanors to complex federal trials, Jess A. Lorona brings over 43 years of courtroom experience and a former prosecutor's insight to every defense. Below is a complete list of our practice areas. Click any area to learn more about the charges we defend, the process, and common questions.
             </p>
           </FadeIn>
         </div>

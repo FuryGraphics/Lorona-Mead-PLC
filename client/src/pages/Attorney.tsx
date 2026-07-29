@@ -14,7 +14,7 @@ export default function Attorney() {
     <>
     <SEO
       title="Jess A. Lorona | Phoenix Criminal Defense Attorney | Lorona Mead, PLC"
-      description="Meet Jess A. Lorona, Phoenix criminal defense attorney with 30+ years of experience and former prosecutor insight. Free consultation. Call (602) 385-6818."
+      description="Meet Jess A. Lorona, Phoenix criminal defense attorney with 43+ years of experience and former prosecutor insight. Free consultation. Call (602) 385-6818."
       canonical="https://arizonatrialattorneys.com/attorney"
       schema={{
         "@context": "https://schema.org",
@@ -43,7 +43,7 @@ export default function Attorney() {
             </h1>
             <div className="w-20 h-1 bg-gradient-to-r from-[#C9A84C] to-transparent mb-6" />
             <p className="text-lg text-white/70 max-w-2xl text-balance">
-              Phoenix Criminal Defense Attorney · Former Prosecutor · 30+ Years of Courtroom Experience
+              Phoenix Criminal Defense Attorney · Former Prosecutor · 43+ Years of Courtroom Experience
             </p>
           </FadeIn>
         </div>
@@ -80,10 +80,10 @@ export default function Attorney() {
               </GoldUnderlineHeading>
               <div className="space-y-4 text-white/60 leading-relaxed">
                 <p>
-                  Jess A. Lorona is the founding attorney of Lorona Mead, PLC. With over three decades of criminal defense experience and a background as a former prosecutor, he brings a rare dual perspective to every case. He knows how the state builds cases because he used to build them. And he knows how to dismantle them.
+                  Jess A. Lorona is the founding attorney of Lorona Mead, PLC. With over four decades of criminal defense experience and a background as a former prosecutor, he brings a rare dual perspective to every case. He knows how the state builds cases because he used to build them. And he knows how to dismantle them.
                 </p>
                 <p>
-                  After beginning his legal career as a prosecutor, Jess transitioned to criminal defense because he believed that everyone deserves a fierce advocate, regardless of the charges they face. That belief has guided his practice for over 30 years. He has defended thousands of clients across Arizona, from first-offense DUI to complex federal drug trafficking trials.
+                  After beginning his legal career as a prosecutor, Jess transitioned to criminal defense because he believed that everyone deserves a fierce advocate, regardless of the charges they face. That belief has guided his practice for over 43 years. He has defended thousands of clients across Arizona, from first-offense DUI to complex federal drug trafficking trials.
                 </p>
                 <p>
                   Jess is known for his meticulous preparation, his aggressive courtroom style, and his unwavering commitment to his clients. He treats every case as if it were his own, and he does not back down from a fight. Whether negotiating a favorable plea or taking a case to trial, Jess pursues the best possible outcome with determination and skill.
@@ -134,7 +134,7 @@ export default function Attorney() {
                 <h3 className="font-serif text-lg font-semibold text-white mb-3">Professional Experience</h3>
                 <ul className="space-y-2 text-sm text-white/60">
                   <li>Former Prosecutor, Maricopa County Attorney's Office</li>
-                  <li>30+ years criminal defense practice</li>
+                  <li>43+ years criminal defense practice</li>
                   <li>Thousands of cases defended</li>
                 </ul>
               </div>
@@ -159,7 +159,7 @@ export default function Attorney() {
 
       <CTASection
         title="Work With Jess A. Lorona"
-        subtitle="Get direct, personal representation from an attorney with 30+ years of courtroom experience. Call for a free consultation."
+        subtitle="Get direct, personal representation from an attorney with 43+ years of courtroom experience. Call for a free consultation."
         bgImage="/manus-storage/final-cta-bg_26217376.jpg"
       />
     </>
