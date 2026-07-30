@@ -58,7 +58,7 @@ export default function Attorney() {
             <FadeIn>
               <div className="lg:sticky lg:top-28">
                 <img
-                  src="/manus-storage/attorney-headshot_0c849023.jpg"
+                  src="/manus-storage/jess-lorona-headshot_6f6cddca.png"
                   alt="Jess A. Lorona, Phoenix criminal defense attorney"
                   className="w-full rounded-lg"
                 />
